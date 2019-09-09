@@ -1,12 +1,13 @@
 {
-    "name": "beyondcode/laravel-comments",
+    "name": "devvmiller/laravel-comments",
     "description": "Add comments to your Laravel application",
     "keywords": [
+        "devvmiller",
         "beyondcode",
         "comments",
         "laravel-comments"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-comments",
+    "homepage": "https://github.com/devvmiller/laravel-comments",
     "license": "MIT",
     "authors": [
         {
